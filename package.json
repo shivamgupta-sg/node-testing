@@ -1,0 +1,16 @@
+{
+  "name": "cgpa-cal",
+  "version": "1.0.0",
+  "description": "CGPA CALCULATOR",
+  "author": "",
+  "license": "",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
